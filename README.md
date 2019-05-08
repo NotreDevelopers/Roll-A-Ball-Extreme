@@ -8,3 +8,6 @@ New functionality:
 Contribute by either making a new branch or by contributing to an existing branch:
 - if making own branch: put name and functionality
 - ex: "kwak-paul-music"
+
+# Loading the Game:
+- Once Unity is downloaded (Unity Hub), open the scene in the "_Scenes" folder in the editor
